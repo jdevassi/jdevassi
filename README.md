@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jdevassi&show_icons=true&theme=date_night)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdevassi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevassi&repo=jdevassi.github.io&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevassi&repo=jdevassi.github.io&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdevassi&repo=jdevassi.github.io&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
